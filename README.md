@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaanoguzhan&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 -->
+You are the  ![Visitor Count](https://profile-counter.glitch.me/kaanoguzhan/count.svg) visitor
+
