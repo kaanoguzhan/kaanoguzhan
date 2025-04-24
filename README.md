@@ -1,5 +1,5 @@
 ## Hi there 👋 
-### You are the ![Visitor Count](https://profile-counter.glitch.me/kaanoguzhan/count.svg) visitor 👋 
+### You are the visitor numner: ![Visitor Count](https://profile-counter.glitch.me/kaanoguzhan/count.svg) 
 
 <!--
 **kaanoguzhan/kaanoguzhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
