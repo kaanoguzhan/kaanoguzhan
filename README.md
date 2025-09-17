@@ -1,6 +1,7 @@
 ### Hi there 👋 
 
-![](https://komarev.com/ghpvc/?username=sciencepal&label=Profile%20Visits&color=blue&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=kaanoguzhan&label=Profile%20Visits&color=brightgreen&style=for-the-badge)
+
 
 <!--
 ### You are the visitor numner: ![Visitor Count](https://profile-counter.glitch.me/kaanoguzhan/count.svg) 
@@ -18,6 +19,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 
 <!--
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaanoguzhan&show_icons=true&theme=radical)
