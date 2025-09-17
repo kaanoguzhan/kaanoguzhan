@@ -1,8 +1,9 @@
-## Hi there 👋 
+### Hi there 👋 
+
+![](https://komarev.com/ghpvc/?username=sciencepal&label=Profile%20Visits&color=blue&style=for-the-badge)
 
 <!--
 ### You are the visitor numner: ![Visitor Count](https://profile-counter.glitch.me/kaanoguzhan/count.svg) 
-
 
 **kaanoguzhan/kaanoguzhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
