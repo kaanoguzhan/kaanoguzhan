@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&vCenter=true&width=600&lines=Data+Scientist+%7C+ML+Engineer+%7C+AI+Researcher;From+SVMs+to+Transformers;Building+intelligent+systems+one+tensor+at+a+time;Exploring+agents+%26+local+models+on+consumer+GPUs)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&vCenter=true&width=600&lines=Data+Scientist+%7C+ML+Engineer+%7C+AI+Researcher;Building+intelligent+systems+.+.+.+.+.;Exploring+agents+.+.+.+.+.)](https://git.io/typing-svg)
+
 
 
 ```text
