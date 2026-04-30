@@ -83,6 +83,26 @@ On ChatGPT, CyberSecurity, and Secure Coding]
 | *A decomposition algorithm for streak camera data* | [![CERN](https://img.shields.io/badge/CERN-Research-0053A1?logo=cern)](https://cds.cern.ch/record/2895486?ln=en) [![arXiv](https://img.shields.io/badge/arXiv-Paper-B31B1B?logo=arxiv)](https://arxiv.org/abs/2401.12269) |
 | *How Good is Openly Available Code Snippets Containing Software Vulnerabilities to Train Machine Learning Algorithms?* | [![CYBER](https://img.shields.io/badge/Conference-Paper-4285F4?logo=googledocs)](https://personales.upv.es/thinkmind/dl/conferences/cyber/cyber_2022/cyber_2022_1_40_80025.pdf) |
 
+---
+
+## 🌱 `$ cat currently_exploring.md`
+
+- 🤖 Multi-agentic architectures 
+- 🤖 Agentic coding
+- 🏠 Running & optimizing local models on RTX GPUs
+
+---
+
+## 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true)
+
+---
+
+## 🤝 `$ open connections`
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/kaanoguzhan)
+
 
 
 
