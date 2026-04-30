@@ -1,12 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&vCenter=true&width=600&lines=Data+Scientist+%7C+ML+Engineer+%7C+AI+Researcher;Building+intelligent+systems+.+.+.+.+.;Exploring+agents+.+.+.+.+.)](https://git.io/typing-svg)
 
 
-
 ```text
 ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────┐
 │                                                                                                            │
 │   ██╗  ██╗ █████╗  █████╗ ███╗   ██╗                              ┊  OS:     macOS/Linux                   │
-│   ██║ ██╔╝██╔══██╗██╔══██╗████╗  ██║                              ┊  Shell:  tmux + fish/zsh               │
+│   ██║ ██╔╝██╔══██╗██╔══██╗████╗  ██║                              ┊  Shell:  tmux + zsh                    │
 │   █████╔╝ ███████║███████║██╔██╗ ██║                              ┊  Editor: VS Code                       │
 │   ██╔═██╗ ██╔══██║██╔══██║██║╚██╗██║                              ┊  Pkg:    uv                            │
 │   ██║  ██╗██║  ██║██║  ██║██║ ╚████║                              ┊  GPU:    consumer                      │
@@ -27,7 +26,6 @@
 │                                                                                                            │
 └────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
 ```
-
 
 ## 🛠️ `$ cat tech_stack.yml`
 
@@ -54,6 +52,17 @@ databases:
   - NoSQL (MongoDB, etc.)
 ```
 
+---
+
+## 🧪 `$ cat ml_journey.log`
+
+```text
+[2013-NOW] Classical ML         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░  SVM, Trees
+[2015-NOW] Deep Learning        ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░  CNN, LSTM, NLP
+[2018-NOW] Transformers & LLMs  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░  Fine-tuning
+[2023-NOW] GenAI                ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░  Multi-agent, Local inference
+[2024-NOW] Agents               ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░  RAG, MCP
+```
 
 
 
