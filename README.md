@@ -64,6 +64,27 @@ databases:
 [2024-NOW] Agents               ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░  RAG, MCP
 ```
 
+---
+
+## 📄 `$ ls publications/`
+
+<!-- Replace placeholders with your papers -->
+
+```text
+├── paper_1.pdf  →  [I’m Sorry Dave, I’m Afraid I Can’t Fix Your Code:
+On ChatGPT, CyberSecurity, and Secure Coding]
+├── paper_2.pdf  →  [A decomposition algorithm for streak camera data]
+└── paper_3.pdf  →  [How Good is Openly Available Code Snippets Containing Software Vulnerabilities to Train Machine Learning Algorithms?]
+```
+
+| Paper | Link |
+|-------|------|
+| *I'm Sorry Dave, I'm Afraid I Can't Fix Your Code: On ChatGPT, CyberSecurity, and Secure Coding* | [![Dagstuhl](https://img.shields.io/badge/Dagstuhl-Paper-005A9C?logo=doi)](https://drops.dagstuhl.de/entities/document/10.4230/OASIcs.ICPEC.2023.2) |
+| *A decomposition algorithm for streak camera data* | [![CERN](https://img.shields.io/badge/CERN-Research-0053A1?logo=cern)](https://cds.cern.ch/record/2895486?ln=en) [![arXiv](https://img.shields.io/badge/arXiv-Paper-B31B1B?logo=arxiv)](https://arxiv.org/abs/2401.12269) |
+| *How Good is Openly Available Code Snippets Containing Software Vulnerabilities to Train Machine Learning Algorithms?* | [![CYBER](https://img.shields.io/badge/Conference-Paper-4285F4?logo=googledocs)](https://personales.upv.es/thinkmind/dl/conferences/cyber/cyber_2022/cyber_2022_1_40_80025.pdf) |
+
+
+
 
 
 ### ![](https://komarev.com/ghpvc/?username=kaanoguzhan&label=Profile%20Visits&color=brightgreen&style=for-the-badge)
