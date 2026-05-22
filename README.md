@@ -71,8 +71,7 @@ databases:
 <!-- Replace placeholders with your papers -->
 
 ```text
-├── paper_1.pdf  →  [I’m Sorry Dave, I’m Afraid I Can’t Fix Your Code:
-On ChatGPT, CyberSecurity, and Secure Coding]
+├── paper_1.pdf  →  [I’m Sorry Dave, I’m Afraid I Can’t Fix Your Code: On ChatGPT, CyberSecurity, and Secure Coding]
 ├── paper_2.pdf  →  [A decomposition algorithm for streak camera data]
 └── paper_3.pdf  →  [How Good is Openly Available Code Snippets Containing Software Vulnerabilities to Train Machine Learning Algorithms?]
 ```
